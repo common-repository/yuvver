@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yuvver\n"
+"POT-Creation-Date: 2015-10-30 19:02+0200\n"
+"PO-Revision-Date: 2015-11-01 14:32+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: he_IL\n"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Email subject"
+msgstr "נושא ההזמנה"
+
+msgid "Your domain is not verified"
+msgstr "התחום שלך לא מאומת"
+
+msgid ""
+"Login into your application in <a href='http://yuvver.com' "
+"target='_blank'>http://yuvver.com</a> and copy below your code verification"
+msgstr ""
+"כנס ליישום שלך ב-<a href='http://yuvver.com' target='_blank'>http://yuvver."
+"com</a> והעתק את דוק האימות בשדה למטה"
+
+msgid "Verify Domain"
+msgstr "אמת את שם המתחם שלך"
+
+msgid "Save"
+msgstr "שמור"
+
+msgid "API key"
+msgstr "מפתח API"
+
+msgid ""
+"If you don't know your API key,<br />Login into your application in <a "
+"href='http://yuvver.com' target='_blank'>http://yuvver.com</a> and you will "
+"see it there"
+msgstr ""
+"אם אינך יודע את מפתח ה-API,<br>כנס ליישום שלך ב-<a href='http://yuvver.com' "
+"target='_blank'>http://yuvver.com</a> ואתה תראה אותו שם"
+
+msgid "Dismiss this notice."
+msgstr "סגור הודעה זו."
+
+msgid "Code verification"
+msgstr "קוד אימות"
+
+msgid ""
+"If you don't have an account in Yuvver,<br />Go to <a href='http://yuvver."
+"com/sign-up/' target='_blank'>http://yuvver.com/sign-up/</a> to create your "
+"Yuvver account"
+msgstr ""
+"אם אין לך חשבון ב- Yuvver,<br>כנס ל<a href='http://yuvver.com/sign-up/' "
+"target='_blank'>http://yuvver.com/sign-up/</a> כדי ליצור את החשבון ה- "
+"Yuvver שלך"
+
+msgid "Please fill in code verification"
+msgstr "אנא הקלד את קוד אימות"
+
+msgid "Congrats, your domain is verified."
+msgstr "התחום שלך אומת בהצלחה."
+
+msgid "Final step, copy your API key"
+msgstr "השלב אחרון, אנא העתק את מפתח API"
+
+msgid "into the field and press <strong>Save</strong>"
+msgstr "לשדה למטה ולחץ על <strong>שמור</strong>"
+
+msgid "Verify code did not match!"
+msgstr "קוד אימות לא נמצא!"
+
+msgid "Fatal error"
+msgstr "שגיאת מערכת"
+
+msgid "Your application is activated and ready to use."
+msgstr "האפליקצית ה- Yuvver שלך פעילה (:"
+
+msgid "Shortcode button"
+msgstr "כפתור קוד מקוצר"
+
+msgid "Write your invitation"
+msgstr "רשום את ההזמנה שלך"
+
+msgid "Use the string"
+msgstr "השתמש במחרוזת זו"
+
+msgid "Invitation"
+msgstr "הזמנה"
+
+msgid "Add new invitation"
+msgstr "הוסף הזמנה חדשה"
+
+msgid "Show all invitations"
+msgstr "הצג את כל ההזמנות"
+
+msgid "in the editor or in the subject to print your client name"
+msgstr "בעורך טקסט או בנושא כדי להדפיס את שם הלקוח שלך"
+
+msgid "in the editor to print your client's friend name"
+msgstr "בעורך טקסט כדי להדפיס את שם החבר של הלקוח שלך"
+
+msgid ""
+"<h2 dir='ltr'>***Example***</h2><p dir='ltr'>Hi {{friend_name}},<br />Your "
+"friend {{client_name}} share with you link to the best website ever.<br /></"
+"p><p dir='ltr'>{{base_url}}</p>"
+msgstr ""
+"<h2 dir='rtl'>***דוגמה***</h2><p dir='rtl'>היי {{friend_name}},<br />חבר "
+"שלך {{client_name}} שיתף איתך את האתר הכי טוב בעולם.<br /></p><p "
+"dir='rtl'>{{base_url}}</p>"
+
+msgid "Your friends will get your invitation shortly."
+msgstr "ההזמנה בדרך לחברים שלך"
+
+msgid "Fatal Error - Emails not selected"
+msgstr "שגיאת מערכת - לא נבחרו אימיילים"
+
+msgid "Fatal Error - Don't find invitation ID"
+msgstr "שגיאת מערכת - לא נמצא מספר הזמנה"
+
+msgid "Fatal Error - Application is not activated"
+msgstr "שגיאת מערכת - האפליקציה שלך לא מאושרת"
+
+msgid "Hi, we detect you have"
+msgstr "היי, זיהינו שיש לך"
+
+msgid "Email in queue"
+msgstr "מיילים בהמתנה"
+
+msgid "email in queue"
+msgstr "מייל בהמתנה"
+
+msgid "emails in queue"
+msgstr "מיילים בהמתנה"
+
+msgid "Send now"
+msgstr "שלח עכשיו"

@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yuvver\n"
+"POT-Creation-Date: 2015-10-29 14:32+0200\n"
+"PO-Revision-Date: 2015-10-29 15:05+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Settings"
+msgstr ""
+
+msgid "Email subject"
+msgstr ""
+
+msgid "Your domain is not verified"
+msgstr ""
+
+msgid "Login into your application in <a href='http://yuvver.com' target='_blank'>http://yuvver.com</a> and copy below your code verification"
+msgstr ""
+
+msgid "Verify Domain"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "API key"
+msgstr ""
+
+msgid "If you don't know your API key,<br />Login into your application in <a href='http://yuvver.com' target='_blank'>http://yuvver.com</a> and you will see it there"
+msgstr ""
+
+msgid "Dismiss this notice."
+msgstr ""
+
+msgid "Code verification"
+msgstr ""
+
+msgid "If you don't have an account in Yuvver,<br />Go to <a href='http://yuvver.com/sign-up/' target='_blank'>http://yuvver.com/sign-up/</a> to create your Yuvver account"
+msgstr ""
+
+msgid "Please fill in code verification"
+msgstr ""
+
+msgid "Congrats, your domain is verified."
+msgstr ""
+
+msgid "Final step, copy your API key"
+msgstr ""
+
+msgid "into the field and press <strong>Save</strong>"
+msgstr ""
+
+msgid "Verify code did not match!"
+msgstr ""
+
+msgid "Fatal error"
+msgstr ""
+
+msgid "Your application is activated and ready to use."
+msgstr ""
+
+msgid "Shortcode button"
+msgstr ""
+
+msgid "Write your invitation"
+msgstr ""
+
+msgid "Use the string"
+msgstr ""
+
+msgid "Invitation"
+msgstr ""
+
+msgid "Add new invitation"
+msgstr ""
+
+msgid "Show all invitations"
+msgstr ""
+
+msgid "in the editor or in the subject to print your client name"
+msgstr ""
+
+msgid "in the editor to print your client's friend name"
+msgstr ""
+
+msgid "<h2 dir='ltr'>***Example***</h2><p dir='ltr'>Hi {{friend_name}},<br />Your friend {{client_name}} share with you link to the best website ever.<br /></p><p dir='ltr'>{{base_url}}</p>"
+msgstr ""
+
+msgid "Your friends will get your invitation shortly."
+msgstr ""
+
+msgid "Fatal Error - Emails not selected"
+msgstr ""
+
+msgid "Fatal Error - Don't find invitation ID"
+msgstr ""
+
+msgid "Fatal Error - Application is not activated"
+msgstr ""
+
+msgid "Hi, we detect you have"
+msgstr ""
+
+msgid "Email in queue"
+msgstr ""
+
+msgid "email in queue"
+msgstr ""
+
+msgid "emails in queue"
+msgstr ""
+
+msgid "Send now"
+msgstr ""
